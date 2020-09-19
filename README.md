@@ -1,2 +1,2 @@
 # Bootstrap-Starter
-Bootstrap starter template from getbootstrap uing bootstrap 4.
+Bootstrap starter template from getbootstrap using bootstrap 4.
